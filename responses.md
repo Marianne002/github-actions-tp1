@@ -1,4 +1,3 @@
-
 # GITHUB ACTIONS TP1 :
 
 ## Q8
@@ -12,3 +11,6 @@ Les tests échouent avec le bug mis dans `model.py` et le workflow devient rouge
 
 ## Q14
 GitHub exécute les tests en parallèle (Python 3.8, 3.9 et 3.10).
+
+## Q18
+Sous la Pull Request, le workflow `pr-comment.yml`commente automatiquement.
