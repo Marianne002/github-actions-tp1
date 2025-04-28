@@ -14,3 +14,8 @@ GitHub exécute les tests en parallèle (Python 3.8, 3.9 et 3.10).
 
 ## Q18
 Sous la Pull Request, le workflow `pr-comment.yml`commente automatiquement.
+
+## Q21
+Le badge affiche l'état du dernier build.
+
+## Q
