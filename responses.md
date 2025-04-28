@@ -1,8 +1,10 @@
 
+# GITHUB ACTIONS TP1 :
 
-8. 
-Initial commit with basic model and hello
-Hello World #1: Commit 94afe62 pushed by Marianne002
-now
-Queued
+## Q8
+Dans l'onglet Actions, on voit le premier workflow "Hello World" s'exécuter après un git push.
 
+## Q10
+Le workflow test.yml lance automatiquement les tests pytest à chaque push ou pull_request.
+
+## Q11
