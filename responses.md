@@ -8,3 +8,4 @@ Dans l'onglet Actions, on voit le premier workflow "Hello World" s'exécuter apr
 Le workflow test.yml lance automatiquement les tests pytest à chaque push ou pull_request.
 
 ## Q11
+Les tests échouent avec le bug mis dans `model.py` et le workflow devient rouge avec une  croix comme icon.
