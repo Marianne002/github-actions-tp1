@@ -32,3 +32,6 @@ Le badge affiche l'état du dernier build.
 
 ## Q38
 ...
+
+## Q40
+...
