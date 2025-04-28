@@ -18,4 +18,7 @@ Sous la Pull Request, le workflow `pr-comment.yml`commente automatiquement.
 ## Q21
 Le badge affiche l'état du dernier build.
 
-## Q
+## Q24
+?
+
+##
